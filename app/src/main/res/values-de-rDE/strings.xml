@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name" translatable="false">lab2</string>
+    <string name="moj_text" translatable="false">Hallo meine Welt!</string>
+    <string name="drugi_text" translatable="false">Es kann wahr sein</string>
+    <string name="trzeci_text" translatable="false">wird erkannt</string>
+    <string name="czwarty_text" translatable="false">nur in der Stille</string>
+    <string name="piaty_text" translatable="false">"Festung"</string>
+</resources>
